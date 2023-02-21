@@ -1,7 +1,7 @@
 /*
  * File: input_helpers.c
- * 
- *          
+ *
+ *
  */
 
 #include "shell.h"
