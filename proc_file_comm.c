@@ -1,7 +1,7 @@
 /*
  * File: proc_file_comm.c
- * 
- *          
+ *
+ *
  */
 
 #include "shell.h"
