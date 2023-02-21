@@ -3,8 +3,8 @@
 
 /*
  * File: shell.h
- * Authors: tewodros awedew
- *          messi zewdi
+ * Authors: Azza sobhy
+ *          Sara Mohamed
  */
 
 #include <fcntl.h>
