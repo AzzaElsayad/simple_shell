@@ -1,7 +1,7 @@
 /*
  * File: main.c
- * 
- *          
+ *
+ *
  */
 
 #include "shell.h"
